@@ -72,10 +72,9 @@ plt.tight_layout()
 plt.show()
 ```
 # Output Waveform
-```
+
 <img width="1389" height="1589" alt="image" src="https://github.com/user-attachments/assets/68abde5e-df0f-4a15-90df-13859853025e" />
 
-```
 # Results
 ```
 Attach the output waveform
